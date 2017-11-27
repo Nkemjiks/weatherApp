@@ -1,0 +1,72 @@
+body {
+	/*background-color: blue;*/
+	text-align: center;
+	font-family: Comic Sans MS;
+}
+.bg {
+	height: 100%;
+	background-image: url("clear.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.bf {
+	height: 50%;
+	background-image: url("clear sky.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+/*.bh {
+	height: 100%;
+	background-image: url("clear.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}*/
+.firstdiv {
+	width: auto;
+	height: 300px;
+	border-color: black;
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 15px;
+	background-color: none;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 50px;
+}
+.seconddiv {
+	width: auto;
+	height: 150px;
+	/*border-color: black;
+	border-style: solid;
+	border-width: none;
+	border-radius: 5px;
+	background-color: none;*/
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-top: 30px;
+}
+.th, .td {
+	border-style: solid;
+	border-width: 0px;
+	border-radius: 10px;
+	border-color: black;
+	
+}
+.td {
+	width: 200px;
+	height: 140px;
+	background-color: #00BFFF;
+	background-image: url("clear sky.jpg");
+}
+.wide {
+	font-size: 40px;
+}
+.tdnew {
+	width: 500px;
+	height: 300px;
+	text-align: center;
+	
+}
