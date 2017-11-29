@@ -23,7 +23,7 @@ body {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
-}*/
+}*/  
 .firstdiv {
 	width: auto;
 	height: 300px;
@@ -56,9 +56,7 @@ body {
 	
 }
 .td {
-	width: 200px;
-	height: 140px;
-	background-color: #00BFFF;
+	
 	background-image: url("clear sky.jpg");
 }
 .wide {
